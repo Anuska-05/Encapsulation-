@@ -27,7 +27,7 @@
 
 //properties get and set 
 Person p = new Person();
-p.Name = "John";   //set accesor 
+p.Name = "sam";   //set accesor 
 Console.WriteLine(p.Name); //get accesor
 class Person
 {
@@ -37,19 +37,4 @@ class Person
         get { return name; }
         set { name = value; }
     }
-}
-
-//validation inisde a property 
-class Student
-{
-    private int age;
-    public int Age
-    {
-        get { return age; }
-        set
-        {
-            if (value >= 0 && value <= 120) age = value;
-            else Console.WriteLine("Invalid age");
-        }
-    }   
 }
