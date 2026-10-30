@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Desktop\2nd Year\Csharp\encapsulation\bin\Debug\net10.0\encapsulation.exe
+C:\Users\Admin\OneDrive\Desktop\2nd Year\Csharp\encapsulation\bin\Debug\net10.0\encapsulation.deps.json
+C:\Users\Admin\OneDrive\Desktop\2nd Year\Csharp\encapsulation\bin\Debug\net10.0\encapsulation.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\2nd Year\Csharp\encapsulation\bin\Debug\net10.0\encapsulation.dll
+C:\Users\Admin\OneDrive\Desktop\2nd Year\Csharp\encapsulation\bin\Debug\net10.0\encapsulation.pdb
+C:\Users\Admin\OneDrive\Desktop\2nd Year\Csharp\encapsulation\obj\Debug\net10.0\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\2nd Year\Csharp\encapsulation\obj\Debug\net10.0\encapsulation.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\2nd Year\Csharp\encapsulation\obj\Debug\net10.0\encapsulation.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\2nd Year\Csharp\encapsulation\obj\Debug\net10.0\encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\2nd Year\Csharp\encapsulation\obj\Debug\net10.0\encapsulation.dll
+C:\Users\Admin\OneDrive\Desktop\2nd Year\Csharp\encapsulation\obj\Debug\net10.0\refint\encapsulation.dll
+C:\Users\Admin\OneDrive\Desktop\2nd Year\Csharp\encapsulation\obj\Debug\net10.0\encapsulation.pdb
+C:\Users\Admin\OneDrive\Desktop\2nd Year\Csharp\encapsulation\obj\Debug\net10.0\encapsulation.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\2nd Year\Csharp\encapsulation\obj\Debug\net10.0\ref\encapsulation.dll
