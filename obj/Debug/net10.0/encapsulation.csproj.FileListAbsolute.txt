@@ -12,3 +12,4 @@ C:\Users\Admin\OneDrive\Desktop\2nd Year\Csharp\encapsulation\obj\Debug\net10.0\
 C:\Users\Admin\OneDrive\Desktop\2nd Year\Csharp\encapsulation\obj\Debug\net10.0\encapsulation.pdb
 C:\Users\Admin\OneDrive\Desktop\2nd Year\Csharp\encapsulation\obj\Debug\net10.0\encapsulation.genruntimeconfig.cache
 C:\Users\Admin\OneDrive\Desktop\2nd Year\Csharp\encapsulation\obj\Debug\net10.0\ref\encapsulation.dll
+C:\Users\Admin\OneDrive\Desktop\2nd Year\Csharp\encapsulation\obj\Debug\net10.0\encapsulation.sourcelink.json
